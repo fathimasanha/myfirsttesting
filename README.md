@@ -1,2 +1,2 @@
-# myfirsttesting
-it is test practice for java project
+# myfirstrep
+It is test practice for java project
